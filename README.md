@@ -1,7 +1,6 @@
 ## Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...DC
 - 🌱 I’m currently learning golang/rust/py.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
