@@ -1,1 +1,29 @@
-<!--Designed for Teng Ma - Cloud Native SpecialistTo use: Copy this content into your special repository (named same as your username).--><div align="center"><!-- 动态打字特效：轮播展示你的核心角色 --><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D326CE5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHi%2Bthere,%2BI%27m%2BTeng%2BMa+👋;Cloud+Native+Specialist;Golang+Backend+Developer;K8s+Internals+Hacker" alt="Typing SVG" /><!-- 个人简介：居中展示，强调技术深度而非工作流水账 --><p align="center"><b>Building the plumbing of the Cloud.</b>I specialize in the <b>Kubernetes ecosystem</b>, diving deep into infrastructure layers, analyzing <b>K8s source code</b>, and building automated orchestration tools.</p><!-- 社交链接/联系方式：使用图标按钮 --><p align="center"><a href="mailto:2530566719@qq.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-2530566719%2540qq.com-0056D2%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /></a><a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Upwork-Hire%2520Me-6FDA44%3Fstyle%3Dflat-square%26logo%3Dupwork%26logoColor%3Dwhite" alt="Upwork" /></a></p></div><!-- 技术栈徽章墙：按领域分类，视觉整洁 --><h3 align="center">🛠️ Technical Arsenal</h3><div align="center"><!-- 语言 --><img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Shell_Script-121011%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" /><!-- 云原生核心 --><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326ce5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><!-- 进阶工具 (使用统一颜色增加设计感) --><img src="https://www.google.com/search?q=https://img.shields.io/badge/Sonobuoy-Plugins-4B32C3%3Fstyle%3Dfor-the-badge" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/CRI--Tools-Runtime-4B32C3%3Fstyle%3Dfor-the-badge" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubean-Automation-4B32C3%3Fstyle%3Dfor-the-badge" /><!-- 后端与数据 --><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gin-Framework-008ECF%3Fstyle%3Dfor-the-badge" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/gRPC-Protobuf-008ECF%3Fstyle%3Dfor-the-badge" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" /><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></div><!-- 项目展示：使用表格布局，看起来更像“产品卡片” --><h3 align="center">🚀 Featured Open Source</h3><div align="center"><table><tr><td align="center" width="50%"><a href="https://www.google.com/search?q=https://github.com/issimo1/gee"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-Gee_Web_Framework-00ADD8%3Fstyle%3Dflat-square%26logo%3Dgo" /></a>A lightweight Web framework built from scratch, inspired by <b>Gin</b>. Features <b>Trie-based routing</b> and custom middleware context.</td><td align="center" width="50%"><a href="https://github.com/issimo1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-K8s_Controller-326CE5%3Fstyle%3Dflat-square%26logo%3Dkubernetes" /></a>A custom <b>CRD Controller</b> based on <code>sample-controller</code>. Implements advanced version control, rollback logic, and data persistence.</td></tr></table></div><!-- GitHub 统计图表：使用深色主题，更具极客感 --><div align="center"><!-- 请确保 issimo1 是你准确的 GitHub 用户名，如果不是请修改 username=... 参数 --><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dissimo1%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26count_private%3Dtrue" height="150" alt="stats graph" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dissimo1%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="150" alt="languages graph" /></div><div align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dissimo1%26style%3Dflat-square%26color%3Dblue%26label%3DPROFILE%2BVIEWS" alt="Profile views" /></div>
+# Hi there, I'm Teng Ma 👋
+
+## Cloud Native Specialist | Golang Backend Developer
+
+I am a backend engineer specializing in the Kubernetes ecosystem. Unlike typical web developers, I dive deep into the infrastructure layer—analyzing K8s source code, hacking the Container Runtime Interface (CRI), and building automated orchestration tools.
+
+## 🛠 Technical Stack
+
+Languages: Golang (Expert), Shell Scripting
+
+Cloud Native: Kubernetes, Docker, Containerd, CRI-tools, Sonobuoy
+
+Automation: Kubean, Kubespray, ClusterLoader2
+
+Backend: Gin, gRPC, MySQL, Redis
+
+## 🔭 Current Focus
+
+My recent work revolves around Kubernetes Conformance and Cluster Automation:
+
+K8s Conformance Testing: Developing custom plugins for Sonobuoy to verify orchestration and runtime standards.
+
+CRI Tooling: Encapsulating cri-tools with gRPC for remote endpoint monitoring.
+
+Hybrid Clusters: Automating mixed-architecture (x86/ARM) deployments using Kubean.
+
+## 📫 Contact
+
+Email: 2530566719@qq.com
