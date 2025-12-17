@@ -30,7 +30,7 @@ My recent work focuses on Kubernetes Conformance and Cluster Automation at DaoCl
 
 Here are some projects that showcase my understanding of Go and Kubernetes internals:
 
-Custom K8s Controller (Personal Project)
+Custom K8s Controller.
 
 Developed a CRD and Controller based on sample-controller.
 
